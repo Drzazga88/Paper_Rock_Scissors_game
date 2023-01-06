@@ -74,4 +74,4 @@ for (let index = 0; index < gamesNumber; index++) {
   }
 }
 
-alert(`Score is wins = ${wins}, losses = ${loses} and draws = ${draws}.`);
+alert(`Your score is wins = ${wins}, losses = ${loses} and draws = ${draws}.`);
